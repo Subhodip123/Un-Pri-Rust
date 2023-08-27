@@ -19,6 +19,9 @@ This repo is a collection of papers regarding **Un**certainty and **Pri**vacy aw
 
 ### Machine Unlearning
 
+| **Paper Title** | **Published@** |
+| --------------- | -------------- |
+| [A Survey of Machine Unlearning](https://arxiv.org/abs/2209.02299) | _arXiv_ |
 
 ### Conformity Prediction
 
