@@ -31,12 +31,11 @@ This repo is a collection of papers regarding **Un**certainty and **Pri**vacy aw
 | [Eternal Sunshine of the Spotless Net: Selective Forgetting in Deep Networks](https://arxiv.org/abs/1911.04933) | **CVPR 2020**|
 | [Zero-Shot Machine Unlearning](https://arxiv.org/abs/2201.05629) | **IEEE Transactions on Information Forensics and Security 2023** |
 | [Variational Bayesian Unlearning](https://arxiv.org/abs/2010.12883) | **NeuRIPS 2020** |
-| [Unlearnable Examples: Making Personal Data Unexploitable](https://arxiv.org/abs/2101.04898) | **ICLR2021** |
+| [Unlearnable Examples: Making Personal Data Unexploitable](https://arxiv.org/abs/2101.04898) | **ICLR 2021** |
 | [Repairing Neural Networks by Leaving the Right Past Behind](https://arxiv.org/abs/2207.04806) | **NeuRIPS 2022** |
 | [DeltaGrad: Rapid retraining of machine learning models](https://arxiv.org/abs/2006.14755) | **PMLR 2020** |
-
-
-
+| [Machine unlearning via GAN](https://arxiv.org/abs/2111.11869) | **arXiv 2021** |
+| [Feature Unlearning for Generative Models via Implicit Feedback](https://arxiv.org/abs/2303.05699) | **arXiv 2023** |
 
 ### Conformity Prediction
 
