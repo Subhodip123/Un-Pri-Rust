@@ -4,12 +4,12 @@ This repo is a collection of papers regarding **Un**certainty and **Pri**vacy aw
 
 ## Contents
 
-- [**Privacy**]
-  - [Membership Inference and Reconstruction Attacks]
-  - [Machine Unlearning]
-- [**Uncertainty Quantification**]
-  - [Conformity Prediction]
-  - [Calibration]
-- [**Robustness**]
-  -[Adversarial/Data Poisoning Attacks]
-  -[Adversarial Learning for Adversarial Attacks]
+- **Privacy**
+  - Membership Inference and Reconstruction Attacks
+  - Machine Unlearning
+- **Uncertainty Quantification**
+  - Conformity Prediction
+  - Calibration
+- **Robustness**
+  - Adversarial/Data Poisoning Attacks
+  - Adversarial Learning for Adversarial Attacks
