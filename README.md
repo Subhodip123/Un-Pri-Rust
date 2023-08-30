@@ -19,6 +19,7 @@ This repo is a collection of papers regarding **Un**certainty and **Pri**vacy aw
 | **Paper Title** | **Published@** |
 | --------------- | -------------- |
 | [A Survey of Privacy Attacks in Machine Learning](https://arxiv.org/abs/2007.07646) | **arXiv** |
+| [Membership Inference Attacks on Machine Learning Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7958568&tag=1) | **IEEE Symposium on Security and Privacy 2017** |
 
 ### Machine Unlearning
 
@@ -36,6 +37,7 @@ This repo is a collection of papers regarding **Un**certainty and **Pri**vacy aw
 | [DeltaGrad: Rapid retraining of machine learning models](https://arxiv.org/abs/2006.14755) | **PMLR 2020** |
 | [Machine unlearning via GAN](https://arxiv.org/abs/2111.11869) | **arXiv 2021** |
 | [Feature Unlearning for Generative Models via Implicit Feedback](https://arxiv.org/abs/2303.05699) | **arXiv 2023** |
+| [Amnesiac Machine Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17371) | **AAAI 2021** |
 
 ### Conformity Prediction
 
