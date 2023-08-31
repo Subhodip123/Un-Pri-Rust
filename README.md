@@ -10,13 +10,13 @@ This repo is a collection of papers regarding **Un**certainty and **Pri**vacy aw
 - **Uncertainty Quantification**
   - Conformity Prediction
   - Calibration
-- **Robustness**
+<!-- - **Robustness**
   - Adversarial/Data Poisoning Attacks
-  - Adversarial Learning for Adversarial Attacks
+  - Adversarial Learning for Adversarial Attacks -->
 
 ### Membership Inference and Reconstruction Attacks
 
-| **Paper Title** | **Published@** |
+| **Paper Title** | **Published @** |
 | --------------- | -------------- |
 | [A Survey of Privacy Attacks in Machine Learning](https://arxiv.org/abs/2007.07646) | **arXiv** |
 | [Membership Inference Attacks on Machine Learning Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7958568&tag=1) | **IEEE Symposium on Security and Privacy 2017** |
@@ -38,12 +38,14 @@ This repo is a collection of papers regarding **Un**certainty and **Pri**vacy aw
 | [Machine unlearning via GAN](https://arxiv.org/abs/2111.11869) | **arXiv 2021** |
 | [Feature Unlearning for Generative Models via Implicit Feedback](https://arxiv.org/abs/2303.05699) | **arXiv 2023** |
 | [Amnesiac Machine Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17371) | **AAAI 2021** |
+| [PUMA: Performance Unchanged Model Augmentation for Training Data Removal](https://ojs.aaai.org/index.php/AAAI/article/view/20846) | ***AAAI 2022** |
 
-### Conformity Prediction
+### Conformal Prediction
 
 | **Paper Title** | **Published @** |
 | --------------- | -------------- |
 | [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/abs/2107.07511) | **arXiv** |
+| [Uncertainty sets for image classifiers using conformal prediction](https://openreview.net/pdf?id=eNdiU_DbM9) | **ICLR 2021** |
 
 ### Calibration
 
@@ -51,7 +53,7 @@ This repo is a collection of papers regarding **Un**certainty and **Pri**vacy aw
 | --------------- | -------------- |
 |  |  |
 
-### Adversarial/Data Poisoning Attacks
+<!-- ### Adversarial/Data Poisoning Attacks
 
 | **Paper Title** | **Published @** |
 | --------------- | -------------- |
@@ -62,4 +64,4 @@ This repo is a collection of papers regarding **Un**certainty and **Pri**vacy aw
 
 | **Paper Title** | **Published @** |
 | --------------- | -------------- |
-| [Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning](https://arxiv.org/abs/1712.03141)| **Conference on Computer and Communications Security 2018** |
+| [Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning](https://arxiv.org/abs/1712.03141)| **Conference on Computer and Communications Security 2018** | -->
