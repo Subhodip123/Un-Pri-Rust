@@ -1,6 +1,6 @@
 # Un-Pri-Rust
 
-This repo is a collection of papers regarding **Un**certainty and **Pri**vacy aware **R**ob**ust** Deep Learning Models which are published in many peer reviewed conferences and jounals. These are collected as I read the papers on daily basis. In each table the papers are sorted in such a way that initial papers give you an overview on the topic and the latters give you a more deeper understanding to specific problems.
+This repo is a collection of some important papers covering the topics in **Un**certainty and **Pri**vacy aware **R**ob**ust** Deep Learning Models. These are collected as I read the papers on daily basis. In each table the papers are sorted in such a way that initial papers give you an overview on the topic and the latters give you a more deeper understanding to specific problems.
 
 ## Contents
 
@@ -42,6 +42,7 @@ This repo is a collection of papers regarding **Un**certainty and **Pri**vacy aw
 | --------------- | -------------- |
 | [A Survey of Privacy Attacks in Machine Learning](https://arxiv.org/abs/2007.07646) | **arXiv** |
 | [Membership Inference Attacks on Machine Learning Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7958568&tag=1) | **IEEE Symposium on Security and Privacy 2017** |
+| [Privacy Risk in Machine Learning: Analyzing the Connection to Overfitting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8429311) | **IEEE Computer Security Foundations Symposium 2018** |
 
 
 
