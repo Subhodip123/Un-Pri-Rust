@@ -29,10 +29,11 @@ This repo is a collection of some important papers covering the topics in **Un**
 | [Variational Bayesian Unlearning](https://arxiv.org/abs/2010.12883) | **NeurIPS 2020** |
 | [Unlearnable Examples: Making Personal Data Unexploitable](https://arxiv.org/abs/2101.04898) | **ICLR 2021** |
 | [Repairing Neural Networks by Leaving the Right Past Behind](https://arxiv.org/abs/2207.04806) | **NeurIPS 2022** |
-| [DeltaGrad: Rapid retraining of machine learning models](https://arxiv.org/abs/2006.14755) | **PMLR 2020** |
+| [DeltaGrad: Rapid retraining of machine learning models](https://arxiv.org/abs/2006.14755) | **ICML 2020** |
 | [Amnesiac Machine Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17371) | **AAAI 2021** |
 | [PUMA: Performance Unchanged Model Augmentation for Training Data Removal](https://ojs.aaai.org/index.php/AAAI/article/view/20846) | **AAAI 2022** |
 | [Zero-Shot Machine Unlearning](https://arxiv.org/abs/2201.05629) | **IEEE Transactions on Information Forensics and Security 2023** |
+| [ADAPT THEN UNLEARN: EXPLOITING PARAMETER SPACE SEMANTICS FOR UNLEARNING IN GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/abs/2309.14054) | **arXiv 2023** |
 | [Machine unlearning via GAN](https://arxiv.org/abs/2111.11869) | **arXiv 2021** |
 | [Feature Unlearning for Generative Models via Implicit Feedback](https://arxiv.org/abs/2303.05699) | **arXiv 2023** |
 
@@ -43,13 +44,14 @@ This repo is a collection of some important papers covering the topics in **Un**
 | [A Survey of Privacy Attacks in Machine Learning](https://arxiv.org/abs/2007.07646) | **arXiv** |
 | [Membership Inference Attacks on Machine Learning Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7958568&tag=1) | **IEEE Symposium on Security and Privacy 2017** |
 | [Privacy Risk in Machine Learning: Analyzing the Connection to Overfitting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8429311) | **IEEE Computer Security Foundations Symposium 2018** |
-
+| [How Does Data Augmentation Affect Privacy in Machine Learning?](https://arxiv.org/abs/2007.10567) | **AAAI 2021** |
 
 
 ### Conformal Prediction
 
 | **Paper Title** | **Published @** |
 | --------------- | -------------- |
+| [A Tutorial on Conformal Prediction](https://jmlr.csail.mit.edu/papers/volume9/shafer08a/shafer08a.pdf) | **JMLR 2009** |
 | [A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification](https://arxiv.org/abs/2107.07511) | **arXiv** |
 | [Uncertainty sets for image classifiers using conformal prediction](https://openreview.net/pdf?id=eNdiU_DbM9) | **ICLR 2021** |
 
@@ -57,7 +59,7 @@ This repo is a collection of some important papers covering the topics in **Un**
 
 | **Paper Title** | **Published @** |
 | --------------- | -------------- |
-|  |  |
+| [On Calibration of Modern Neural Networks](https://proceedings.mlr.press/v70/guo17a/guo17a.pdf) | **ICML 2017**  |
 
 <!-- ### Adversarial/Data Poisoning Attacks
 
