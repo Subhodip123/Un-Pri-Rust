@@ -36,7 +36,7 @@ This repo is a collection of some important papers covering the topics in **Un**
 | [ADAPT THEN UNLEARN: EXPLOITING PARAMETER SPACE SEMANTICS FOR UNLEARNING IN GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/abs/2309.14054) | **arXiv 2023** |
 | [Machine unlearning via GAN](https://arxiv.org/abs/2111.11869) | **arXiv 2021** |
 | [Feature Unlearning for Generative Models via Implicit Feedback](https://arxiv.org/abs/2303.05699) | **arXiv 2023** |
-
+| [Remember What You Want to Forget: Algorithms for Machine Unlearning](https://openreview.net/forum?id=pvCLqcsLJ1N9) | **NeurIPS 2021** |
 ### Membership Inference and Reconstruction Attacks
 
 | **Paper Title** | **Published @** |
@@ -44,7 +44,7 @@ This repo is a collection of some important papers covering the topics in **Un**
 | [A Survey of Privacy Attacks in Machine Learning](https://arxiv.org/abs/2007.07646) | **arXiv** |
 | [Membership Inference Attacks on Machine Learning Models](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7958568&tag=1) | **IEEE Symposium on Security and Privacy 2017** |
 | [Privacy Risk in Machine Learning: Analyzing the Connection to Overfitting](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8429311) | **IEEE Computer Security Foundations Symposium 2018** |
-| [How Does Data Augmentation Affect Privacy in Machine Learning?](https://arxiv.org/abs/2007.10567) | **AAAI 2021** |
+| [How Does Data Augmentation Affect Privacy in Machine Learning?](https://openreview.net/forum?id=pvCLqcsLJ1N) | **AAAI 2021** |
 
 
 ### Conformal Prediction
