@@ -33,11 +33,16 @@ This repo is a collection of some important papers covering the topics in **Un**
 | [Amnesiac Machine Learning](https://ojs.aaai.org/index.php/AAAI/article/view/17371) | **AAAI 2021** |
 | [PUMA: Performance Unchanged Model Augmentation for Training Data Removal](https://ojs.aaai.org/index.php/AAAI/article/view/20846) | **AAAI 2022** |
 | [Zero-Shot Machine Unlearning](https://arxiv.org/abs/2201.05629) | **IEEE Transactions on Information Forensics and Security 2023** |
-| [ADAPT THEN UNLEARN: EXPLOITING PARAMETER SPACE SEMANTICS FOR UNLEARNING IN GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/abs/2309.14054) | **arXiv 2023** |
+| [Descent-to-Delete: Gradient-Based Methods for Machine Unlearning](https://proceedings.mlr.press/v132/neel21a.html) | **ALT 2021** |
+| [Remember What You Want to Forget: Algorithms for Machine Unlearning](https://openreview.net/forum?id=pvCLqcsLJ1N9) | **NeurIPS 2021** |
+| [A Unified PAC-Bayesian Framework for Machine Unlearning via Information Risk Minimization](https://ieeexplore.ieee.org/document/9596170) | **IEEE International Workshop on MLSP 2021**|
 | [Machine unlearning via GAN](https://arxiv.org/abs/2111.11869) | **arXiv 2021** |
 | [Feature Unlearning for Generative Models via Implicit Feedback](https://arxiv.org/abs/2303.05699) | **arXiv 2023** |
-| [Remember What You Want to Forget: Algorithms for Machine Unlearning](https://openreview.net/forum?id=pvCLqcsLJ1N9) | **NeurIPS 2021** |
-### Membership Inference and Reconstruction Attacks
+| [ADAPT THEN UNLEARN: EXPLOITING PARAMETER SPACE SEMANTICS FOR UNLEARNING IN GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/abs/2309.14054) | **arXiv 2023** |
+| [Erasing Concepts from Diffusion Models](https://arxiv.org/abs/2303.07345) | **ICCV 2023** |
+| [CONTINUAL LEARNING AND PRIVATE UNLEARNING](https://arxiv.org/abs/2203.12817) | **CoLLA 2022** |
+
+### Privacy Attacks
 
 | **Paper Title** | **Published @** |
 | --------------- | -------------- |
