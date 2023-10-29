@@ -40,7 +40,7 @@ This repo is a collection of some important papers covering the topics in **Un**
 | [Feature Unlearning for Generative Models via Implicit Feedback](https://arxiv.org/abs/2303.05699) | **arXiv 2023** |
 | [ADAPT THEN UNLEARN: EXPLOITING PARAMETER SPACE SEMANTICS FOR UNLEARNING IN GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/abs/2309.14054) | **arXiv 2023** |
 | [Erasing Concepts from Diffusion Models](https://arxiv.org/abs/2303.07345) | **ICCV 2023** |
-| [Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models](https://arxiv.org/abs/2305.10120) | **arXiv 2023 |
+| [Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models](https://arxiv.org/abs/2305.10120) | **arXiv 2023** |
 | [CONTINUAL LEARNING AND PRIVATE UNLEARNING](https://arxiv.org/abs/2203.12817) | **CoLLA 2022** |
 
 ### Privacy Attacks
